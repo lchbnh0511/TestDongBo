@@ -1,0 +1,12 @@
+
+# Bỏ qua thư mục tạm của Unity
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+
+# Bỏ qua file dự án IDE
+*.csproj
+*.sln
+*.userprefs
